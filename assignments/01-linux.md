@@ -11,7 +11,7 @@ sudo touch slide01.txt
 cp slide01.txt slide02.txt
 cp slide01.txt slide03.txt
 cd ..
-sudo cp -r wipcamp12
+sudo cp -r wipcamp12 wipcamp13
 cd wipcamp13
 sudo rm slide03.txt
 cd ../wipcamp12/
